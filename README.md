@@ -20,13 +20,6 @@ To download and set up this project from GitHub, follow the steps below:
  ```
    git clone <repository-url>
   ```
-**Clone a Specific Branch**
-
-If you want to clone a specific branch, use the following command:
-
-``` 
-git clone -b <branch-name> <repository-url>
-```
 2.**Navigate to the Project Folder**
 
 After cloning, navigate to the project folder:
